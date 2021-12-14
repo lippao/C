@@ -1,0 +1,6 @@
+typedef struct // Cria uma STRUCT para armazenar os dados de uma pessoa
+{
+    float Peso;   // define o campo Peso
+    int Idade;    // define o campo Idade
+    float Altura; // define o campo Altura
+} Pessoa; // Define o nome do novo tipo criado
